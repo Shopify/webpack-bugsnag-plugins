@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # webpack-bugsnag-plugins
 [![Build status](https://travis-ci.org/bugsnag/webpack-bugsnag-plugins.svg?branch=master)](https://travis-ci.org/bugsnag/webpack-bugsnag-plugins)
 [![NPM](https://img.shields.io/npm/v/webpack-bugsnag-plugins.svg)](https://npmjs.org/package/webpack-bugsnag-plugins)
